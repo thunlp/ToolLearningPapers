@@ -65,16 +65,6 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 
 - **BMTools**. [[Project](https://github.com/OpenBMB/BMTools)]
 
-## Contribution
-
-### Contributors
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://github.com/thunlp/DeltaPapers/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=thunlp/DeltaPapers" />
-</a>
-
 ### Contributing to this paper list
 
 -  There are cases where we miss important works in this field, please contribute to this repo! Thanks for the efforts in advance.
