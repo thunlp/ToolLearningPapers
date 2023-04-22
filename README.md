@@ -50,6 +50,62 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 - **Toolformer: Language Models Can Teach Themselves to Use Tools** Preprint 2023. ![](https://img.shields.io/badge/Search_Engine-orange) ![](https://img.shields.io/badge/Calculator-orange) ![](https://img.shields.io/badge/Calendar-orange) ![](https://img.shields.io/badge/Wikipedia-orange)
 
   *Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialom* [[pdf](https://arxiv.org/abs/2302.04761)], [[Code](https://github.com/lucidrains/toolformer-pytorch)]
+  
+- **Generalization through Memorization: Nearest Neighbor Language Models** ICLR 2020. ![](https://img.shields.io/badge/KNN_Models-orange)
+
+  *Urvashi Khandelwal, Omer Levy, Dan Jurafsky, Luke Zettlemoyer, Mike Lewis* [[pdf](https://openreview.net/pdf?id=HklBjCEKvH)]
+
+- **Improving Language Models by Retrieving from Trillions of Tokens** PMLR 2022. ![](https://img.shields.io/badge/KNN_Models-orange)
+
+  *Sebastian Borgeaud, Arthur Mensch, Jordan Hoffmann, Trevor Cai, Eliza Rutherford, Katie Millican, George Bm Van Den Driessche, Jean-Baptiste Lespiau, Bogdan Damoc, Aidan Clark, Diego De Las Casas, Aurelia Guy, Jacob Menick, Roman Ring, Tom Hennigan, Saffron Huang, Loren Maggiore, Chris Jones, Albin Cassirer, Andy Brock, Michela Paganini, Geoffrey Irving, Oriol Vinyals, Simon Osindero, Karen Simonyan, Jack Rae, Erich Elsen, Laurent Sifre* [[pdf](https://proceedings.mlr.press/v162/borgeaud22a/borgeaud22a.pdf)]
+
+- **Extracting training data from large language models** USENIX 2021. ![](https://img.shields.io/badge/Search_Engine-orange)
+
+  *Nicholas Carlini, Florian Tramèr, Eric Wallace, Matthew Jagielski, Ariel Herbert-Voss, Katherine Lee, Adam Roberts, Tom Brown, Dawn Song, Úlfar Erlingsson, Alina Oprea, Colin Raffel* [[pdf](https://www.usenix.org/system/files/sec21-carlini-extracting.pdf)]
+
+- **Lamda: Language models for dialog applications** Preprint 2022. ![](https://img.shields.io/badge/Search_Engine-orange)
+
+  *Aaron Daniel Cohen, Adam Roberts, Aleandra Molina, Alena Butryna, Alicia Jin, Apoorv Kulshreshtha, Ben Hutchinson, Ben Zevenbergen,Blaise Hilary Aguera Arcas, Chung-ching Chang, Claire Cui, Cosmo Du, Daniel De Freitas Adiwardana, Dehao Chen, Dmitry (Dima) Lepikhin, Ed H. Chi-rin Hoffman-ohn. Heno-1ze Chend. Honarae ee. cor krivokon. James 0in. amie Ha. oe Fenton. ohnny Soraker. athy Meier-HelstemKristen 0lson, Lora Mois Aroyo, Maarten Paul Bosma, Marc Joseph Pickett, Marcelo Amorim Menegali, Marian Croak, Mark Diaz, Matthew Lamm,Maxim Krikun, Meredith RingelMoris,Noam Shazeer, Quoc V Le, Rachel Berstein, Ravi Rajakumar, Ray kurzwei, Roma Thoppilan, Steven ZhengTaylor Bos,Toju Duke, Tulse Doshi, Vincent . Zhao, Vinodkumar Prabhakaran, Wil Rusch, YaGuang Li, Yanping Huang, Yangi Zhou, Yuanzhong XuZhifeng Chen* [[pdf](https://arxiv.org/abs/2201.08239.pdf)]
+
+- **Recitation-Augmented Language Models** Preprint 2022. ![](https://img.shields.io/badge/Foundational_Model-orange)
+
+  *Zhiqing Sun, Xuezhi Wang, Yi Tay, Yiming Yang, Denny Zhou* [[pdf](https://arxiv.org/abs/2210.01296.pdf)]
+
+* **Re-imagen: Retrieval-augmented text-to-image generator** Preprint 2022. ![](https://img.shields.io/badge/Multi_Model-orange)
+
+  *Wenhu Chen, Hexiang Hu, Chitwan Saharia, William W. Cohen* [[pdf](https://arxiv.org/abs/2209.14491.pdf)]
+
+* **Knn-diffusion: Image generation via large-scale retrieval** Preprint 2022. ![](https://img.shields.io/badge/Multi_Model-orange)
+
+  *Shelly Sheynin, Oron Ashual, Adam Polyak, Uriel Singer, Oran Gafni, Eliya Nachmani, Yaniv Taigman* [[pdf](https://arxiv.org/abs/2204.02849)]
+
+* **Training verifiers to solve math word problems** Preprint 2021. ![](https://img.shields.io/badge/Calculator-orange)
+
+  *Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman* [[pdf](https://arxiv.org/abs/2110.14168)]
+
+* **Talm: Tool augmented language models** Preprint 2022. ![](https://img.shields.io/badge/Calculator-orange) ![](https://img.shields.io/badge/QA_System-orange)  
+
+  *Aaron Parisi, Yao Zhao, Noah Fiedel* [[pdf](https://arxiv.org/abs/2205.12255)]
+
+* **Mind's Eye: Grounded Language Model Reasoning through Simulation** Preprint 2022. ![](https://img.shields.io/badge/Physics_Stimulation_Engine-orange)
+
+  *Ruibo Liu, Jason Wei, Shixiang Shane Gu, Te-Yen Wu, Soroush Vosoughi, Claire Cui, Denny Zhou, Andrew M. Dai* [[pdf](https://arxiv.org/abs/2210.05359.pdf)]
+  
+* **Program of thoughts prompting: Disentangling computation from reasoning for numerical reasoning tasks** Preprint 2022. ![](https://img.shields.io/badge/Python_Interpreter-orange)
+
+  *Wenhu Chen, Xueguang Ma, Xinyi Wang, William W. Cohen* [[pdf](https://arxiv.org/abs/2211.12588)]
+  
+* **PAL: Program-aided Language Models** Preprint 2022. ![](https://img.shields.io/badge/Python_Interpreter-orange)
+
+  *Luyu Gao, Aman Madaan, Shuyan Zhou, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig* [[pdf](https://arxiv.org/abs/2211.10435)]
+  
+* **Behavior Cloned Transformers are Neurosymbolic Reasoners** Preprint 2022. ![](https://img.shields.io/badge/Symbolic_Modules-orange)
+
+  *Ruoyao Wang, Peter Jansen, Marc-Alexandre Côté, Prithviraj Ammanabrolu* [[pdf](https://arxiv.org/abs/2210.07382)]
+  
+* **Show your work: Scratchpads for intermediate computation with language models** Preprint 2021. ![](https://img.shields.io/badge/Scratch_Pad-orange)
+
+  *Maxwell Nye, Anders Johan Andreassen, Guy Gur-Ari, Henryk Michalewski, Jacob Austin, David Bieber, David Dohan, Aitor Lewkowycz, Maarten Bosma, David Luan, Charles Sutton, Augustus Odena* [[pdf](https://arxiv.org/abs/2112.00114)]
 
 ### Tool-oriented Learning
 
