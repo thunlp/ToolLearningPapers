@@ -117,6 +117,70 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 
   *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao* [[pdf](https://arxiv.org/abs/2210.03629)], [[Blog](https://react-lm.github.io/)], [[Code](https://github.com/ysymyth/ReAct)]
 
+- **Lampp: Language models as probabilistic priors for perception and action** Preprint 2023.
+
+  *Belinda Z. Li, William Chen, Pratyusha Sharma, Jacob Andreas* [[pdf](https://arxiv.org/pdf/2302.02801.pdf)]
+
+- **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents** PMLR, 2022.
+
+  *Wenlong Huang, Pieter Abbeel, Deepak Pathak, Igor Mordatch* [[pdf](https://proceedings.mlr.press/v162/huang22a/huang22a.pdf)], [[Blog](https://wenlong.page/language-planner/)], [[Code](https://github.com/huangwl18/language-planner)]
+
+- **Do As I Can, Not As I Say: Grounding Language in Robotic Affordances** Preprint 2022. ![](https://img.shields.io/badge/Physics_Stimulation_Engine-orange)
+
+  *Michael Ahn, Anthony Brohan, Noah Brown, Yevgen Chebotar, Omar Cortes, Byron David, Chelsea Finn, Chuyuan Fu, Keerthana Gopalakrishnan, Karol Hausman, Alex Herzog, Daniel Ho, Jasmine Hsu, Julian Ibarz, Brian Ichter, Alex Irpan, Eric Jang, Rosario Jauregui Ruano, Kyle Jeffrey, Sally Jesmonth, Nikhil J Joshi, Ryan Julian, Dmitry Kalashnikov, Yuheng Kuang, Kuang-Huei Lee, Sergey Levine, Yao Lu, Linda Luu, Carolina Parada, Peter Pastor, Jornell Quiambao, Kanishka Rao, Jarek Rettinghouse, Diego Reyes, Pierre Sermanet, Nicolas Sievers, Clayton Tan, Alexander Toshev, Vincent Vanhoucke, Fei Xia, Ted Xiao, Peng Xu, Sichun Xu, Mengyuan Yan, Andy Zeng* [[pdf](https://arxiv.org/pdf/2204.01691.pdf)], [[Blog](https://say-can.github.io/)], [[Code](https://github.com/google-research/google-research/tree/master/saycan)]
+
+- **Inner Monologue: Embodied Reasoning through Planning with Language Models** Preprint 2022. ![](https://img.shields.io/badge/Physics_Stimulation_Engine-orange)
+
+  *Wenlong Huang, Fei Xia, Ted Xiao, Harris Chan, Jacky Liang, Pete Florence, Andy Zeng, Jonathan Tompson, Igor Mordatch, Yevgen Chebotar, Pierre Sermanet, Noah Brown, Tomas Jackson, Linda Luu, Sergey Levine, Karol Hausman, Brian Ichter* [[pdf](https://arxiv.org/pdf/2207.05608.pdf)], [[Blog](https://innermonologue.github.io/)]
+
+- **Code as Policies: Language Model Programs for Embodied Control** Preprint 2022.
+
+  *Jacky Liang, Wenlong Huang, Fei Xia, Peng Xu, Karol Hausman, Brian Ichter, Pete Florence, Andy Zeng* [[pdf](https://arxiv.org/pdf/2209.07753.pdf)], [[Blog](https://code-as-policies.github.io/)], [[Code](https://github.com/google-research/google-research/tree/master/code_as_policies)]
+
+- **ProgPrompt: Generating Situated Robot Task Plans using Large Language Models** Preprint 2022. ![](https://img.shields.io/badge/Physics_Stimulation_Engine-orange)
+
+  *Ishika Singh, Valts Blukis, Arsalan Mousavian, Ankit Goyal, Danfei Xu, Jonathan Tremblay, Dieter Fox, Jesse Thomason, Animesh Garg* [[pdf](https://arxiv.org/pdf/2209.11302.pdf)]
+
+- **Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language** Preprint 2022.
+
+  *Andy Zeng, Maria Attarian, Brian Ichter, Krzysztof Choromanski, Adrian Wong, Stefan Welker, Federico Tombari, Aveek Purohit, Michael Ryoo, Vikas Sindhwani, Johnny Lee, Vincent Vanhoucke, Pete Florence* [[pdf](https://arxiv.org/pdf/2204.00598.pdf)]
+
+- **Flamingo: a Visual Language Model for Few-Shot Learning** Preprint 2022.
+
+  *Jean-Baptiste Alayrac, Jeff Donahue, Pauline Luc, Antoine Miech, Iain Barr, Yana Hasson, Karel Lenc, Arthur Mensch, Katie Millican, Malcolm Reynolds, Roman Ring, Eliza Rutherford, Serkan Cabi, Tengda Han, Zhitao Gong, Sina Samangooei, Marianne Monteiro, Jacob Menick, Sebastian Borgeaud, Andrew Brock, Aida Nematzadeh, Sahand Sharifzadeh, Mikolaj Binkowski, Ricardo Barreira, Oriol Vinyals, Andrew Zisserman, Karen Simonyan* [[pdf](https://arxiv.org/pdf/2204.14198.pdf)]
+
+- **Language Models are General-Purpose Interfaces** Preprint 2022.
+
+  *Yaru Hao, Haoyu Song, Li Dong, Shaohan Huang, Zewen Chi, Wenhui Wang, Shuming Ma, Furu Wei* [[pdf](https://arxiv.org/pdf/2206.06336)], [[Code](https://github.com/microsoft/unilm)]
+
+- **A Generalist Agent** Preprint 2022.
+
+  *Scott Reed, Konrad Zolna, Emilio Parisotto, Sergio Gomez Colmenarejo, Alexander Novikov, Gabriel Barth-Maron, Mai Gimenez, Yury Sulsky, Jackie Kay, Jost Tobias Springenberg, Tom Eccles, Jake Bruce, Ali Razavi, Ashley Edwards, Nicolas Heess, Yutian Chen, Raia Hadsell, Oriol Vinyals, Mahyar Bordbar, Nando de Freitas* [[pdf](https://arxiv.org/pdf/2205.06175.pdf)]
+
+- **PaLM-E: An Embodied Multimodal Language Model** Preprint 2023.
+
+  *Danny Driess, Fei Xia, Mehdi S. M. Sajjadi, Corey Lynch, Aakanksha Chowdhery, Brian Ichter, Ayzaan Wahid, Jonathan Tompson, Quan Vuong, Tianhe Yu, Wenlong Huang, Yevgen Chebotar, Pierre Sermanet, Daniel Duckworth, Sergey Levine, Vincent Vanhoucke, Karol Hausman, Marc Toussaint, Klaus Greff, Andy Zeng, Igor Mordatch, Pete Florence* [[pdf](https://arxiv.org/pdf/2303.03378.pdf)], [[Blog](https://palm-e.github.io/)]
+
+- **WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents** Preprint 2022. ![](https://img.shields.io/badge/Shopping-orange)
+
+  *Shunyu Yao, Howard Chen, John Yang, Karthik Narasimhan* [[pdf](https://arxiv.org/pdf/2207.01206.pdf)], [[Blog](https://webshop-pnlp.github.io/)], [[Code](https://github.com/princeton-nlp/WebShop)]
+
+- **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models** Preprint 2023.
+
+  *Chenfei Wu, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan* [[pdf](https://arxiv.org/pdf/2303.04671.pdf)], [[Code](https://github.com/microsoft/TaskMatrix)]
+
+- **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace** Preprint 2023.
+
+  *Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang* [[pdf](https://arxiv.org/pdf/2303.17580.pdf)], [[Code](https://github.com/microsoft/JARVIS)]
+
+- **Language Models can Solve Computer Tasks** Preprint 2023.
+
+  *Geunwoo Kim, Pierre Baldi, Stephen McAleer* [[pdf](https://arxiv.org/pdf/2303.17491.pdf)]
+
+- **World of Bits: An Open-Domain Platform for Web-Based Agents** PMLR 2017.
+
+  *Tianlin Shi, Andrej Karpathy, Linxi Fan, Jonathan Hernandez, Percy Liang* [[pdf](http://proceedings.mlr.press/v70/shi17a/shi17a.pdf)]
+
 ### Applications
 
 - **BMTools**. [[Project](https://github.com/OpenBMB/BMTools)]
