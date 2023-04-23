@@ -57,11 +57,11 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 
 - **Improving Language Models by Retrieving from Trillions of Tokens** PMLR 2022. ![](https://img.shields.io/badge/Text_Retriever-orange)
 
-  *Sebastian Borgeaud, Arthur Mensch, Jordan Hoffmann, Trevor Cai, Eliza Rutherford, Katie Millican, George Bm Van Den Driessche, Jean-Baptiste Lespiau, Bogdan Damoc, Aidan Clark, Diego De Las Casas, Aurelia Guy, Jacob Menick, Roman Ring, Tom Hennigan, Saffron Huang, Loren Maggiore, Chris Jones, Albin Cassirer, Andy Brock, Michela Paganini, Geoffrey Irving, Oriol Vinyals, Simon Osindero, Karen Simonyan, Jack Rae, Erich Elsen, Laurent Sifre* [[pdf](https://proceedings.mlr.press/v162/borgeaud22a/borgeaud22a.pdf)]
+  *Sebastian Borgeaud, Arthur Mensch, Jordan Hoffmann, Trevor Cai, Eliza Rutherford, Katie Millican, George Bm Van Den Driessche, Jean-Baptiste Lespiau, Bogdan Damoc, Aidan Clark, Diego De Las Casas, Aurelia Guy, Jacob Menick, Roman Ring, Tom Hennigan, Saffron Huang, Loren Maggiore, Chris Jones, Albin Cassirer, Andy Brock, Michela Paganini, Geoffrey Irving, Oriol Vinyals, Simon Osindero, Karen Simonyan, Jack Rae, Erich Elsen, Laurent Sifre* [[pdf](https://proceedings.mlr.press/v162/borgeaud22a/borgeaud22a.pdf)], [[blog](https://www.deepmind.com/blog/improving-language-models-by-retrieving-from-trillions-of-tokens)]
 
 - **Extracting training data from large language models** USENIX 2021. ![](https://img.shields.io/badge/Search_Engine-orange)
 
-  *Nicholas Carlini, Florian Tramèr, Eric Wallace, Matthew Jagielski, Ariel Herbert-Voss, Katherine Lee, Adam Roberts, Tom Brown, Dawn Song, Úlfar Erlingsson, Alina Oprea, Colin Raffel* [[pdf](https://www.usenix.org/system/files/sec21-carlini-extracting.pdf)]
+  *Nicholas Carlini, Florian Tramèr, Eric Wallace, Matthew Jagielski, Ariel Herbert-Voss, Katherine Lee, Adam Roberts, Tom Brown, Dawn Song, Úlfar Erlingsson, Alina Oprea, Colin Raffel* [[pdf](https://www.usenix.org/system/files/sec21-carlini-extracting.pdf)], [[code](https://github.com/ftramer/LM_Memorization)]
 
 - **Lamda: Language models for dialog applications** Preprint 2022. ![](https://img.shields.io/badge/Search_Engine-orange)
 
@@ -69,7 +69,7 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 
 - **Recitation-Augmented Language Models** Preprint 2022. ![](https://img.shields.io/badge/Model_Knowledge-orange)
 
-  *Zhiqing Sun, Xuezhi Wang, Yi Tay, Yiming Yang, Denny Zhou* [[pdf](https://arxiv.org/abs/2210.01296.pdf)]
+  *Zhiqing Sun, Xuezhi Wang, Yi Tay, Yiming Yang, Denny Zhou* [[pdf](https://arxiv.org/abs/2210.01296.pdf)], [[code](https://github.com/Edward-Sun/RECITE)]
 
 * **Re-imagen: Retrieval-augmented text-to-image generator** Preprint 2022. ![](https://img.shields.io/badge/Multi_Model-orange)
 
