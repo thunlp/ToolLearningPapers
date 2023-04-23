@@ -117,10 +117,6 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 
   *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao* [[pdf](https://arxiv.org/abs/2210.03629)], [[Blog](https://react-lm.github.io/)], [[Code](https://github.com/ysymyth/ReAct)]
 
-- **Lampp: Language models as probabilistic priors for perception and action** Preprint 2023.
-
-  *Belinda Z. Li, William Chen, Pratyusha Sharma, Jacob Andreas* [[pdf](https://arxiv.org/pdf/2302.02801.pdf)]
-
 - **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents** PMLR, 2022.
 
   *Wenlong Huang, Pieter Abbeel, Deepak Pathak, Igor Mordatch* [[pdf](https://proceedings.mlr.press/v162/huang22a/huang22a.pdf)], [[Blog](https://wenlong.page/language-planner/)], [[Code](https://github.com/huangwl18/language-planner)]
@@ -145,14 +141,6 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 
   *Andy Zeng, Maria Attarian, Brian Ichter, Krzysztof Choromanski, Adrian Wong, Stefan Welker, Federico Tombari, Aveek Purohit, Michael Ryoo, Vikas Sindhwani, Johnny Lee, Vincent Vanhoucke, Pete Florence* [[pdf](https://arxiv.org/pdf/2204.00598.pdf)]
 
-- **Flamingo: a Visual Language Model for Few-Shot Learning** Preprint 2022.
-
-  *Jean-Baptiste Alayrac, Jeff Donahue, Pauline Luc, Antoine Miech, Iain Barr, Yana Hasson, Karel Lenc, Arthur Mensch, Katie Millican, Malcolm Reynolds, Roman Ring, Eliza Rutherford, Serkan Cabi, Tengda Han, Zhitao Gong, Sina Samangooei, Marianne Monteiro, Jacob Menick, Sebastian Borgeaud, Andrew Brock, Aida Nematzadeh, Sahand Sharifzadeh, Mikolaj Binkowski, Ricardo Barreira, Oriol Vinyals, Andrew Zisserman, Karen Simonyan* [[pdf](https://arxiv.org/pdf/2204.14198.pdf)]
-
-- **Language Models are General-Purpose Interfaces** Preprint 2022.
-
-  *Yaru Hao, Haoyu Song, Li Dong, Shaohan Huang, Zewen Chi, Wenhui Wang, Shuming Ma, Furu Wei* [[pdf](https://arxiv.org/pdf/2206.06336)], [[Code](https://github.com/microsoft/unilm)]
-
 - **A Generalist Agent** Preprint 2022.
 
   *Scott Reed, Konrad Zolna, Emilio Parisotto, Sergio Gomez Colmenarejo, Alexander Novikov, Gabriel Barth-Maron, Mai Gimenez, Yury Sulsky, Jackie Kay, Jost Tobias Springenberg, Tom Eccles, Jake Bruce, Ali Razavi, Ashley Edwards, Nicolas Heess, Yutian Chen, Raia Hadsell, Oriol Vinyals, Mahyar Bordbar, Nando de Freitas* [[pdf](https://arxiv.org/pdf/2205.06175.pdf)]
@@ -176,10 +164,6 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 - **Language Models can Solve Computer Tasks** Preprint 2023.
 
   *Geunwoo Kim, Pierre Baldi, Stephen McAleer* [[pdf](https://arxiv.org/pdf/2303.17491.pdf)]
-
-- **World of Bits: An Open-Domain Platform for Web-Based Agents** PMLR 2017.
-
-  *Tianlin Shi, Andrej Karpathy, Linxi Fan, Jonathan Hernandez, Percy Liang* [[pdf](http://proceedings.mlr.press/v70/shi17a/shi17a.pdf)]
 
 ### Applications
 
