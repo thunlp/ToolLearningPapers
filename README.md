@@ -2,7 +2,7 @@
     <h1><img src="assets/logo.png" height="28px" /> Tool Learning Papers </h1>
 </div>
 
-Must-read papers on tool learning with foundation models.
+Must-read papers on [tool learning](https://arxiv.org/abs/2304.08354) with foundation models.
 
 ## Content
 
@@ -33,7 +33,7 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 
 ### Survey
 
-- **Tool Learning with Foundation Models**, Preprint 2023. ![](https://img.shields.io/badge/Comprehensive_Study-green)
+- **Tool Learning with Foundation Models**, Preprint 2023. ![](https://img.shields.io/badge/Tool_Augmented_Learning-green) ![](https://img.shields.io/badge/Tool_Oriented_Learning-green)
 
   *Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Yufei Huang, Chaojun Xiao, Chi Han, Yi Ren Fung, Yusheng Su, Huadong Wang, Cheng Qian, Runchu Tian, Kunlun Zhu, Shihao Liang, Xingyu Shen, Bokai Xu, Zhen Zhang, Yining Ye, Bowen Li, Ziwei Tang, Jing Yi, Yuzhang Zhu, Zhenning Dai, Lan Yan, Xin Cong, Yaxi Lu, Weilin Zhao, Yuxiang Huang, Junxi Yan, Xu Han, Xian Sun, Dahai Li, Jason Phang, Cheng Yang, Tongshuang Wu, Heng Ji, Zhiyuan Liu, Maosong Sun*. [[pdf](https://arxiv.org/abs/2304.08354)], [[Project](https://github.com/OpenBMB/BMTools)]
 
@@ -51,11 +51,11 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 
   *Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialom* [[pdf](https://arxiv.org/abs/2302.04761)], [[Code](https://github.com/lucidrains/toolformer-pytorch)]
   
-- **Generalization through Memorization: Nearest Neighbor Language Models** ICLR 2020. ![](https://img.shields.io/badge/KNN_Models-orange)
+- **Generalization through Memorization: Nearest Neighbor Language Models** ICLR 2020. ![](https://img.shields.io/badge/Text_Retriever-orange)
 
-  *Urvashi Khandelwal, Omer Levy, Dan Jurafsky, Luke Zettlemoyer, Mike Lewis* [[pdf](https://openreview.net/pdf?id=HklBjCEKvH)]
+  *Urvashi Khandelwal, Omer Levy, Dan Jurafsky, Luke Zettlemoyer, Mike Lewis* [[pdf](https://openreview.net/pdf?id=HklBjCEKvH)] [[Code](https://github.com/urvashik/knnlm)]
 
-- **Improving Language Models by Retrieving from Trillions of Tokens** PMLR 2022. ![](https://img.shields.io/badge/KNN_Models-orange)
+- **Improving Language Models by Retrieving from Trillions of Tokens** PMLR 2022. ![](https://img.shields.io/badge/Text_Retriever-orange)
 
   *Sebastian Borgeaud, Arthur Mensch, Jordan Hoffmann, Trevor Cai, Eliza Rutherford, Katie Millican, George Bm Van Den Driessche, Jean-Baptiste Lespiau, Bogdan Damoc, Aidan Clark, Diego De Las Casas, Aurelia Guy, Jacob Menick, Roman Ring, Tom Hennigan, Saffron Huang, Loren Maggiore, Chris Jones, Albin Cassirer, Andy Brock, Michela Paganini, Geoffrey Irving, Oriol Vinyals, Simon Osindero, Karen Simonyan, Jack Rae, Erich Elsen, Laurent Sifre* [[pdf](https://proceedings.mlr.press/v162/borgeaud22a/borgeaud22a.pdf)]
 
@@ -67,7 +67,7 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 
   *Aaron Daniel Cohen, Adam Roberts, Aleandra Molina, Alena Butryna, Alicia Jin, Apoorv Kulshreshtha, Ben Hutchinson, Ben Zevenbergen,Blaise Hilary Aguera Arcas, Chung-ching Chang, Claire Cui, Cosmo Du, Daniel De Freitas Adiwardana, Dehao Chen, Dmitry (Dima) Lepikhin, Ed H. Chi-rin Hoffman-ohn. Heno-1ze Chend. Honarae ee. cor krivokon. James 0in. amie Ha. oe Fenton. ohnny Soraker. athy Meier-HelstemKristen 0lson, Lora Mois Aroyo, Maarten Paul Bosma, Marc Joseph Pickett, Marcelo Amorim Menegali, Marian Croak, Mark Diaz, Matthew Lamm,Maxim Krikun, Meredith RingelMoris,Noam Shazeer, Quoc V Le, Rachel Berstein, Ravi Rajakumar, Ray kurzwei, Roma Thoppilan, Steven ZhengTaylor Bos,Toju Duke, Tulse Doshi, Vincent . Zhao, Vinodkumar Prabhakaran, Wil Rusch, YaGuang Li, Yanping Huang, Yangi Zhou, Yuanzhong XuZhifeng Chen* [[pdf](https://arxiv.org/abs/2201.08239.pdf)]
 
-- **Recitation-Augmented Language Models** Preprint 2022. ![](https://img.shields.io/badge/Foundational_Model-orange)
+- **Recitation-Augmented Language Models** Preprint 2022. ![](https://img.shields.io/badge/Model_Knowledge-orange)
 
   *Zhiqing Sun, Xuezhi Wang, Yi Tay, Yiming Yang, Denny Zhou* [[pdf](https://arxiv.org/abs/2210.01296.pdf)]
 
@@ -75,7 +75,7 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 
   *Wenhu Chen, Hexiang Hu, Chitwan Saharia, William W. Cohen* [[pdf](https://arxiv.org/abs/2209.14491.pdf)]
 
-* **Knn-diffusion: Image generation via large-scale retrieval** Preprint 2022. ![](https://img.shields.io/badge/Multi_Model-orange)
+* **Knn-diffusion: Image generation via large-scale retrieval** Preprint 2022. ![](https://img.shields.io/badge/Image_Retriever-orange)
 
   *Shelly Sheynin, Oron Ashual, Adam Polyak, Uriel Singer, Oran Gafni, Eliya Nachmani, Yaniv Taigman* [[pdf](https://arxiv.org/abs/2204.02849)]
 
@@ -113,23 +113,23 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 
   *Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina Kim, Christopher Hesse, Shantanu Jain, Vineet Kosaraju, William Saunders, Xu Jiang, Karl Cobbe, Tyna Eloundou, Gretchen Krueger, Kevin Button, Matthew Knight, Benjamin Chess, John Schulman* [[pdf](https://arxiv.org/abs/2112.09332)], [[Blog](https://openai.com/research/webgpt)]
 
-- **ReAct: Synergizing Reasoning and Acting in Language Models** ICLR 2023. ![](https://img.shields.io/badge/Shopping-orange)
+- **ReAct: Synergizing Reasoning and Acting in Language Models** ICLR 2023. ![](https://img.shields.io/badge/Shopping-orange) ![](https://img.shields.io/badge/Search_Engine-orange)
 
   *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao* [[pdf](https://arxiv.org/abs/2210.03629)], [[Blog](https://react-lm.github.io/)], [[Code](https://github.com/ysymyth/ReAct)]
 
-- **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents** PMLR, 2022.
+- **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents** PMLR, 2022. ![](https://img.shields.io/badge/Robots-orange)
 
   *Wenlong Huang, Pieter Abbeel, Deepak Pathak, Igor Mordatch* [[pdf](https://proceedings.mlr.press/v162/huang22a/huang22a.pdf)], [[Blog](https://wenlong.page/language-planner/)], [[Code](https://github.com/huangwl18/language-planner)]
 
-- **Do As I Can, Not As I Say: Grounding Language in Robotic Affordances** Preprint 2022. ![](https://img.shields.io/badge/Physics_Stimulation_Engine-orange)
+- **Do As I Can, Not As I Say: Grounding Language in Robotic Affordances** Preprint 2022. ![](https://img.shields.io/badge/Robots-orange)
 
   *Michael Ahn, Anthony Brohan, Noah Brown, Yevgen Chebotar, Omar Cortes, Byron David, Chelsea Finn, Chuyuan Fu, Keerthana Gopalakrishnan, Karol Hausman, Alex Herzog, Daniel Ho, Jasmine Hsu, Julian Ibarz, Brian Ichter, Alex Irpan, Eric Jang, Rosario Jauregui Ruano, Kyle Jeffrey, Sally Jesmonth, Nikhil J Joshi, Ryan Julian, Dmitry Kalashnikov, Yuheng Kuang, Kuang-Huei Lee, Sergey Levine, Yao Lu, Linda Luu, Carolina Parada, Peter Pastor, Jornell Quiambao, Kanishka Rao, Jarek Rettinghouse, Diego Reyes, Pierre Sermanet, Nicolas Sievers, Clayton Tan, Alexander Toshev, Vincent Vanhoucke, Fei Xia, Ted Xiao, Peng Xu, Sichun Xu, Mengyuan Yan, Andy Zeng* [[pdf](https://arxiv.org/pdf/2204.01691.pdf)], [[Blog](https://say-can.github.io/)], [[Code](https://github.com/google-research/google-research/tree/master/saycan)]
 
-- **Inner Monologue: Embodied Reasoning through Planning with Language Models** Preprint 2022. ![](https://img.shields.io/badge/Physics_Stimulation_Engine-orange)
+- **Inner Monologue: Embodied Reasoning through Planning with Language Models** Preprint 2022. ![](https://img.shields.io/badge/Robots-orange)
 
   *Wenlong Huang, Fei Xia, Ted Xiao, Harris Chan, Jacky Liang, Pete Florence, Andy Zeng, Jonathan Tompson, Igor Mordatch, Yevgen Chebotar, Pierre Sermanet, Noah Brown, Tomas Jackson, Linda Luu, Sergey Levine, Karol Hausman, Brian Ichter* [[pdf](https://arxiv.org/pdf/2207.05608.pdf)], [[Blog](https://innermonologue.github.io/)]
 
-- **Code as Policies: Language Model Programs for Embodied Control** Preprint 2022.
+- **Code as Policies: Language Model Programs for Embodied Control** Preprint 2022. ![](https://img.shields.io/badge/Robots-orange)
 
   *Jacky Liang, Wenlong Huang, Fei Xia, Peng Xu, Karol Hausman, Brian Ichter, Pete Florence, Andy Zeng* [[pdf](https://arxiv.org/pdf/2209.07753.pdf)], [[Blog](https://code-as-policies.github.io/)], [[Code](https://github.com/google-research/google-research/tree/master/code_as_policies)]
 
@@ -137,7 +137,7 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 
   *Ishika Singh, Valts Blukis, Arsalan Mousavian, Ankit Goyal, Danfei Xu, Jonathan Tremblay, Dieter Fox, Jesse Thomason, Animesh Garg* [[pdf](https://arxiv.org/pdf/2209.11302.pdf)]
 
-- **Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language** Preprint 2022.
+- **Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language** Preprint 2022. ![](https://img.shields.io/badge/Neural_Model-orange)
 
   *Andy Zeng, Maria Attarian, Brian Ichter, Krzysztof Choromanski, Adrian Wong, Stefan Welker, Federico Tombari, Aveek Purohit, Michael Ryoo, Vikas Sindhwani, Johnny Lee, Vincent Vanhoucke, Pete Florence* [[pdf](https://arxiv.org/pdf/2204.00598.pdf)]
 
@@ -153,21 +153,37 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 
   *Shunyu Yao, Howard Chen, John Yang, Karthik Narasimhan* [[pdf](https://arxiv.org/pdf/2207.01206.pdf)], [[Blog](https://webshop-pnlp.github.io/)], [[Code](https://github.com/princeton-nlp/WebShop)]
 
-- **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models** Preprint 2023.
+- **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models** Preprint 2023. ![](https://img.shields.io/badge/Neural_Model-orange)
 
   *Chenfei Wu, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan* [[pdf](https://arxiv.org/pdf/2303.04671.pdf)], [[Code](https://github.com/microsoft/TaskMatrix)]
 
-- **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace** Preprint 2023.
+- **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace** Preprint 2023. ![](https://img.shields.io/badge/Neural_Model-orange)
 
   *Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang* [[pdf](https://arxiv.org/pdf/2303.17580.pdf)], [[Code](https://github.com/microsoft/JARVIS)]
 
-- **Language Models can Solve Computer Tasks** Preprint 2023.
+- **Language Models can Solve Computer Tasks** Preprint 2023. ![](https://img.shields.io/badge/Computer-orange)
 
   *Geunwoo Kim, Pierre Baldi, Stephen McAleer* [[pdf](https://arxiv.org/pdf/2303.17491.pdf)]
 
-### Applications
+### Applications and Toolkit
+
+- **ChatGPT Plugins**. [[Project](https://platform.openai.com/docs/plugins/)]
+
+- **LangChain**. [[Project](https://github.com/hwchase17/langchain)]
 
 - **BMTools**. [[Project](https://github.com/OpenBMB/BMTools)]
+
+- **Auto-GPT**. [[Project](https://github.com/Significant-Gravitas/Auto-GPT)]
+
+- **BabyAGI**. [[Project](https://github.com/yoheinakajima/babyagi)]
+
+
+
+### Contributors
+
+<a href="https://github.com/thunlp/ToolLearningPapers/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=thunlp/ToolLearningPapers" />
+</a>
 
 ### Contributing to this paper list
 
