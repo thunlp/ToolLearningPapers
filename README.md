@@ -107,6 +107,10 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 
   *Maxwell Nye, Anders Johan Andreassen, Guy Gur-Ari, Henryk Michalewski, Jacob Austin, David Bieber, David Dohan, Aitor Lewkowycz, Maarten Bosma, David Luan, Charles Sutton, Augustus Odena* [[pdf](https://arxiv.org/abs/2112.00114)]
 
+* **Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models** Preprint 2023. ![](https://img.shields.io/badge/Composition-orange) ![](https://img.shields.io/badge/Python_Interpreter-orange) ![](https://img.shields.io/badge/Search_Engine-orange) ![](https://img.shields.io/badge/Multi_Model-orange)
+
+  *Pan Lu, Baolin Peng, Hao Cheng, Michel Galley, Kai-Wei Chang, Ying Nian Wu, Song-Chun Zhu, Jianfeng Gao* [[pdf](https://arxiv.org/pdf/2304.09842)], [[Blog](https://chameleon-llm.github.io/)]
+
 ### Tool-oriented Learning
 
 - **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents** Preprint 2023. ![](https://img.shields.io/badge/Robots-orange)
