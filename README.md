@@ -109,6 +109,10 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 
 ### Tool-oriented Learning
 
+- **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents** Preprint 2023. ![](https://img.shields.io/badge/Robots-orange)
+
+  *Zihao Wang, Shaofei Cai, Anji Liu, Xiaojian Ma, Yitao Liang* [[Project](http://www.craftjarvis.org)], [[pdf](https://arxiv.org/abs/2302.01560)], [[Code](https://github.com/CraftJarvis/MC-Planner)]
+
 - **WebGPT: Browser-assisted question-answering with human feedback** Preprint 2023. ![](https://img.shields.io/badge/Search_Engine-orange)
 
   *Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina Kim, Christopher Hesse, Shantanu Jain, Vineet Kosaraju, William Saunders, Xu Jiang, Karl Cobbe, Tyna Eloundou, Gretchen Krueger, Kevin Button, Matthew Knight, Benjamin Chess, John Schulman* [[pdf](https://arxiv.org/abs/2112.09332)], [[Blog](https://openai.com/research/webgpt)]
