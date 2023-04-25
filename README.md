@@ -110,6 +110,10 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 * **Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models** Preprint 2023. ![](https://img.shields.io/badge/Composition-orange) ![](https://img.shields.io/badge/Python_Interpreter-orange) ![](https://img.shields.io/badge/Search_Engine-orange) ![](https://img.shields.io/badge/Multi_Model-orange)
 
   *Pan Lu, Baolin Peng, Hao Cheng, Michel Galley, Kai-Wei Chang, Ying Nian Wu, Song-Chun Zhu, Jianfeng Gao* [[pdf](https://arxiv.org/pdf/2304.09842)], [[Blog](https://chameleon-llm.github.io/)], [[Code](https://github.com/lupantech/chameleon-llm)]
+  
+* **GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information** Preprint 2023. ![](https://img.shields.io/badge/GeneGPT-blue) ![](https://img.shields.io/badge/NCBI_Web_API-orange) ![](https://img.shields.io/badge/Biomedicine-green)
+
+  *Qiao Jin, Yifan Yang, Qingyu Chen, Zhiyong Lu* [[pdf](https://arxiv.org/pdf/2304.09667.pdf)]
 
 ### Tool-oriented Learning
 
