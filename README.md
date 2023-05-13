@@ -117,6 +117,10 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 
 ### Tool-oriented Learning
 
+- **WebCPM: Interactive Web Search for Chinese Long-form Question Answering** Preprint 2023. ![](https://img.shields.io/badge/Robots-orange)
+
+  *Yujia Qin, Zihan Cai, Dian Jin, Lan Yan, Shihao Liang, Kunlun Zhu, Yankai Lin, Xu Han, Ning Ding, Huadong Wang, Ruobing Xie, Fanchao Qi, Zhiyuan Liu, Maosong Sun and Jie Zhou* [[pdf](https://arxiv.org/abs/2305.06849)], [[Code](https://github.com/thunlp/WebCPM)]
+
 - **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents** Preprint 2023. ![](https://img.shields.io/badge/Robots-orange)
 
   *Zihao Wang, Shaofei Cai, Anji Liu, Xiaojian Ma, Yitao Liang* [[Project](http://www.craftjarvis.org)], [[pdf](https://arxiv.org/abs/2302.01560)], [[Code](https://github.com/CraftJarvis/MC-Planner)]
@@ -179,11 +183,13 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 
 ### Applications and Toolkit
 
+- **BMTools**. [[Project](https://github.com/OpenBMB/BMTools)]
+
+- **AgentVerse**. [[Project](https://github.com/OpenBMB/AgentVerse)]
+
 - **ChatGPT Plugins**. [[Project](https://platform.openai.com/docs/plugins/)]
 
 - **LangChain**. [[Project](https://github.com/hwchase17/langchain)]
-
-- **BMTools**. [[Project](https://github.com/OpenBMB/BMTools)]
 
 - **Auto-GPT**. [[Project](https://github.com/Significant-Gravitas/Auto-GPT)]
 
