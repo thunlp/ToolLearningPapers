@@ -45,6 +45,10 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 
   *Sherry Yang, Ofir Nachum, Yilun Du, Jason Wei, Pieter Abbeel, Dale Schuurmans*. [[pdf](https://arxiv.org/abs/2303.04129)]
 
+- **Interactive Natural Language Processing**, Preprint 2023. ![](https://img.shields.io/badge/Interactive_Learning-green)
+
+  *Zekun Wang, Ge Zhang, Kexin Yang, Ning Shi, Wangchunshu Zhou, Shaochun Hao, Guangzheng Xiong, Yizhi Li, Mong Yuan Sim, Xiuying Chen, Qingqing Zhu, Zhenzhu Yang, Adam Nik, Qi Liu, Chenghua Lin, Shi Wang, Ruibo Liu, Wenhu Chen, Ke Xu, Dayiheng Liu, Yike Guo, Jie Fu*. [[pdf](https://arxiv.org/pdf/2305.13246.pdf)]
+
 ### Tool-augmented Learning
 
 - **Toolformer: Language Models Can Teach Themselves to Use Tools** Preprint 2023. ![](https://img.shields.io/badge/Search_Engine-orange) ![](https://img.shields.io/badge/Calculator-orange) ![](https://img.shields.io/badge/Calendar-orange) ![](https://img.shields.io/badge/Wikipedia-orange)
@@ -107,17 +111,21 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 
   *Maxwell Nye, Anders Johan Andreassen, Guy Gur-Ari, Henryk Michalewski, Jacob Austin, David Bieber, David Dohan, Aitor Lewkowycz, Maarten Bosma, David Luan, Charles Sutton, Augustus Odena* [[pdf](https://arxiv.org/abs/2112.00114)]
 
-* **Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models** Preprint 2023. ![](https://img.shields.io/badge/Composition-orange) ![](https://img.shields.io/badge/Python_Interpreter-orange) ![](https://img.shields.io/badge/Search_Engine-orange) ![](https://img.shields.io/badge/Multi_Model-orange)
+* **Making Language Models Better Tool Learners with Execution Feedback** Preprint 2023. ![](https://img.shields.io/badge/Calculator-orange)
 
-  *Pan Lu, Baolin Peng, Hao Cheng, Michel Galley, Kai-Wei Chang, Ying Nian Wu, Song-Chun Zhu, Jianfeng Gao* [[pdf](https://arxiv.org/pdf/2304.09842)], [[Blog](https://chameleon-llm.github.io/)], [[Code](https://github.com/lupantech/chameleon-llm)]
+  *Shuofei Qiao, Honghao Gui, Huajun Chen, Ningyu Zhang* [[pdf](https://arxiv.org/pdf/2305.13068.pdf)]
   
 * **GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information** Preprint 2023. ![](https://img.shields.io/badge/GeneGPT-blue) ![](https://img.shields.io/badge/NCBI_Web_API-orange) ![](https://img.shields.io/badge/Biomedicine-green)
 
   *Qiao Jin, Yifan Yang, Qingyu Chen, Zhiyong Lu* [[pdf](https://arxiv.org/pdf/2304.09667.pdf)]
 
+* **Adaptive Chameleon or Stubborn Sloth: Unraveling the Behavior of Large Language Models in Knowledge Conflicts** Preprint 2023.
+
+  *Jian Xie, Kai Zhang, Jiangjie Chen, Renze Lou, Yu Su* [[pdf](https://arxiv.org/pdf/2305.13300.pdf)]
+
 ### Tool-oriented Learning
 
-- **WebCPM: Interactive Web Search for Chinese Long-form Question Answering** Preprint 2023. ![](https://img.shields.io/badge/Robots-orange)
+- **WebCPM: Interactive Web Search for Chinese Long-form Question Answering** Preprint 2023. ![](https://img.shields.io/badge/Search_Engine-orange)
 
   *Yujia Qin, Zihan Cai, Dian Jin, Lan Yan, Shihao Liang, Kunlun Zhu, Yankai Lin, Xu Han, Ning Ding, Huadong Wang, Ruobing Xie, Fanchao Qi, Zhiyuan Liu, Maosong Sun and Jie Zhou* [[pdf](https://arxiv.org/abs/2305.06849)], [[Code](https://github.com/thunlp/WebCPM)]
 
@@ -180,6 +188,10 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 - **Language Models can Solve Computer Tasks** Preprint 2023. ![](https://img.shields.io/badge/Computer-orange)
 
   *Geunwoo Kim, Pierre Baldi, Stephen McAleer* [[pdf](https://arxiv.org/pdf/2303.17491.pdf)]
+
+- **ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings** Preprint 2023.
+
+  *Shibo Hao, Tianyang Liu, Zhen Wang, Zhiting Hu* [[pdf](https://arxiv.org/abs/2305.11554)]
 
 ### Applications and Toolkit
 
