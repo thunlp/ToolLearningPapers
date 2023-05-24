@@ -129,6 +129,10 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 
   *Yujia Qin, Zihan Cai, Dian Jin, Lan Yan, Shihao Liang, Kunlun Zhu, Yankai Lin, Xu Han, Ning Ding, Huadong Wang, Ruobing Xie, Fanchao Qi, Zhiyuan Liu, Maosong Sun and Jie Zhou* [[pdf](https://arxiv.org/abs/2305.06849)], [[Code](https://github.com/thunlp/WebCPM)]
 
+- **CREATOR: Disentangling Abstract and Concrete Reasonings of Large Language Models through Tool Creation** Preprint 2023. ![](https://img.shields.io/badge/Math_Solver-orange)
+
+  *Cheng Qian, Chi Han, Yi R. Fung, Yujia Qin, Zhiyuan Liu, Heng Ji* [[pdf](https://arxiv.org/abs/2305.14318)], [[Code](https://github.com/thunlp/WebCPM)]
+
 - **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents** Preprint 2023. ![](https://img.shields.io/badge/Robots-orange)
 
   *Zihao Wang, Shaofei Cai, Anji Liu, Xiaojian Ma, Yitao Liang* [[Project](http://www.craftjarvis.org)], [[pdf](https://arxiv.org/abs/2302.01560)], [[Code](https://github.com/CraftJarvis/MC-Planner)]
