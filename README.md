@@ -2,7 +2,7 @@
     <h1><img src="assets/logo.png" height="28px" /> Tool Learning Papers </h1>
 </div>
 
-Must-read papers on [tool learning](https://arxiv.org/abs/2304.08354) with foundation models.
+Must-read papers on [tool learning](https://arxiv.org/abs/2304.08354) with foundation models. We also made some [slides](https://github.com/thunlp/ToolLearningPapers/tree/master/assets/tool_learning_ppt.pdf) about tool learning.
 
 ## Content
 
