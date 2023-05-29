@@ -137,6 +137,10 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 
   *Zihao Wang, Shaofei Cai, Anji Liu, Xiaojian Ma, Yitao Liang* [[Project](http://www.craftjarvis.org)], [[pdf](https://arxiv.org/abs/2302.01560)], [[Code](https://github.com/CraftJarvis/MC-Planner)]
 
+- **On the Tool Manipulation Capability of Open-source Large Language Models** Preprint 2023.
+
+  *Qiantong Xu, Fenglu Hong, Bo Li, Changran Hu, Zhengyu Chen, Jian Zhang* [[pdf](https://arxiv.org/pdf/2305.16504.pdf)], [[Code](https://github.com/sambanova/toolbench)]
+
 - **WebGPT: Browser-assisted question-answering with human feedback** Preprint 2023. ![](https://img.shields.io/badge/Search_Engine-orange)
 
   *Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina Kim, Christopher Hesse, Shantanu Jain, Vineet Kosaraju, William Saunders, Xu Jiang, Karl Cobbe, Tyna Eloundou, Gretchen Krueger, Kevin Button, Matthew Knight, Benjamin Chess, John Schulman* [[pdf](https://arxiv.org/abs/2112.09332)], [[Blog](https://openai.com/research/webgpt)]
@@ -201,6 +205,8 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 
 - **BMTools**. [[Project](https://github.com/OpenBMB/BMTools)]
 
+- **ToolBench**. [[Project](https://github.com/OpenBMB/ToolBench)]
+
 - **AgentVerse**. [[Project](https://github.com/OpenBMB/AgentVerse)]
 
 - **ChatGPT Plugins**. [[Project](https://platform.openai.com/docs/plugins/)]
@@ -210,8 +216,6 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 - **Auto-GPT**. [[Project](https://github.com/Significant-Gravitas/Auto-GPT)]
 
 - **BabyAGI**. [[Project](https://github.com/yoheinakajima/babyagi)]
-
-
 
 ### Contributors
 
