@@ -62,6 +62,10 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 - **Improving Language Models by Retrieving from Trillions of Tokens** PMLR 2022. ![](https://img.shields.io/badge/Text_Retriever-orange)
 
   *Sebastian Borgeaud, Arthur Mensch, Jordan Hoffmann, Trevor Cai, Eliza Rutherford, Katie Millican, George Bm Van Den Driessche, Jean-Baptiste Lespiau, Bogdan Damoc, Aidan Clark, Diego De Las Casas, Aurelia Guy, Jacob Menick, Roman Ring, Tom Hennigan, Saffron Huang, Loren Maggiore, Chris Jones, Albin Cassirer, Andy Brock, Michela Paganini, Geoffrey Irving, Oriol Vinyals, Simon Osindero, Karen Simonyan, Jack Rae, Erich Elsen, Laurent Sifre* [[pdf](https://proceedings.mlr.press/v162/borgeaud22a/borgeaud22a.pdf)], [[blog](https://www.deepmind.com/blog/improving-language-models-by-retrieving-from-trillions-of-tokens)]
+  
+- **Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning** SIGIR 2023. ![](https://img.shields.io/badge/SQL_Interpreter-orange)
+
+  *Yunhu Ye, Binyuan Hui, Min Yang, Binhua Li, Fei Huang, Yongbin Li* [[pdf](https://arxiv.org/abs/2301.13808)] [[Code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/dater)]
 
 - **Extracting training data from large language models** USENIX 2021. ![](https://img.shields.io/badge/Search_Engine-orange)
 
