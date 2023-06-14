@@ -63,6 +63,19 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 
   *Sebastian Borgeaud, Arthur Mensch, Jordan Hoffmann, Trevor Cai, Eliza Rutherford, Katie Millican, George Bm Van Den Driessche, Jean-Baptiste Lespiau, Bogdan Damoc, Aidan Clark, Diego De Las Casas, Aurelia Guy, Jacob Menick, Roman Ring, Tom Hennigan, Saffron Huang, Loren Maggiore, Chris Jones, Albin Cassirer, Andy Brock, Michela Paganini, Geoffrey Irving, Oriol Vinyals, Simon Osindero, Karen Simonyan, Jack Rae, Erich Elsen, Laurent Sifre* [[pdf](https://proceedings.mlr.press/v162/borgeaud22a/borgeaud22a.pdf)], [[blog](https://www.deepmind.com/blog/improving-language-models-by-retrieving-from-trillions-of-tokens)]
   
+- **Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models** Preprint 2023. ![](https://img.shields.io/badge/Composition-orange) ![](https://img.shields.io/badge/Python_Interpreter-orange) ![](https://img.shields.io/badge/Search_Engine-orange) ![](https://img.shields.io/badge/Multi_Model-orange)
+
+  *Pan Lu, Baolin Peng, Hao Cheng, Michel Galley, Kai-Wei Chang, Ying Nian Wu, Song-Chun Zhu, Jianfeng Gao* [[pdf](https://arxiv.org/pdf/2304.09842)], [[Blog](https://chameleon-llm.github.io/)], [[Code](https://github.com/lupantech/chameleon-llm)]
+
+- **RestGPT: Connecting Large Language Models with Real-World Applications via RESTful APIs** Preprint 2023. ![](https://img.shields.io/badge/RESTAPI-orange)
+
+  *Yifan Song, Weimin Xiong, Dawei Zhu, Cheng Li, Ke Wang, Ye Tian, Sujian Li* [[pdf](https://arxiv.org/abs/2306.06624)]
+
+- **ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases** Preprint 2023.
+
+  *Qiaoyu Tang, Ziliang Deng, Hongyu Lin, Xianpei Han, Qiao Liang, Le Sun* [[pdf](https://arxiv.org/abs/2306.05301)]
+
+
 - **Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning** SIGIR 2023. ![](https://img.shields.io/badge/SQL_Interpreter-orange)
 
   *Yunhu Ye, Binyuan Hui, Min Yang, Binhua Li, Fei Huang, Yongbin Li* [[pdf](https://arxiv.org/abs/2301.13808)] [[Code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/dater)]
