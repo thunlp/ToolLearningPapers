@@ -140,11 +140,24 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 
   *Jian Xie, Kai Zhang, Jiangjie Chen, Renze Lou, Yu Su* [[pdf](https://arxiv.org/pdf/2305.13300.pdf)]
 
+* **Gorilla: Large Language Model Connected with Massive APIs** Preprint 2023.
+
+  *Shishir G. Patil, Tianjun Zhang, Xin Wang, Joseph E. Gonzalez* [[pdf](https://arxiv.org/pdf/2305.15334.pdf)]
+
+* **API-Bank: A Benchmark for Tool-Augmented LLMs** Preprint 2023.
+
+  *Minghao Li, Feifan Song, Bowen Yu, Haiyang Yu, Zhoujun Li, Fei Huang, Yongbin Li* [[pdf](https://arxiv.org/abs/2304.08244)]
+
+
 ### Tool-oriented Learning
 
-- **WebCPM: Interactive Web Search for Chinese Long-form Question Answering** Preprint 2023. ![](https://img.shields.io/badge/Search_Engine-orange)
+- **WebCPM: Interactive Web Search for Chinese Long-form Question Answering** ACL 2023 long paper. ![](https://img.shields.io/badge/Search_Engine-orange)
 
   *Yujia Qin, Zihan Cai, Dian Jin, Lan Yan, Shihao Liang, Kunlun Zhu, Yankai Lin, Xu Han, Ning Ding, Huadong Wang, Ruobing Xie, Fanchao Qi, Zhiyuan Liu, Maosong Sun and Jie Zhou* [[pdf](https://arxiv.org/abs/2305.06849)], [[Code](https://github.com/thunlp/WebCPM)]
+
+- **WebGLM: Towards An Efficient Web-enhanced Question Answering System with Human Preferences** KDD 2023. ![](https://img.shields.io/badge/Search_Engine-orange)
+
+  *Xiao Liu, Hanyu Lai, Hao Yu, Yifan Xu, Aohan Zeng, Zhengxiao Du, Peng Zhang, Yuxiao Dong, Jie Tang* [[pdf](https://arxiv.org/pdf/2306.07906.pdf)], [[Code](https://github.com/THUDM/WebGLM)]
 
 - **CREATOR: Disentangling Abstract and Concrete Reasonings of Large Language Models through Tool Creation** Preprint 2023. ![](https://img.shields.io/badge/Math_Solver-orange)
 
