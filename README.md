@@ -218,6 +218,19 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 
   *Shibo Hao, Tianyang Liu, Zhen Wang, Zhiting Hu* [[pdf](https://arxiv.org/abs/2305.11554)]
 
+- **Large Language Models as Tool Makers** Preprint 2023.
+
+  *Tianle Cai, Xuezhi Wang, Tengyu Ma, Xinyun Chen, Denny Zhou* [[pdf](https://arxiv.org/abs/2305.17126)]
+
+- **Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow** Preprint 2023.
+
+  *Wenqi Zhang, Yongliang Shen, Weiming Lu, Yueting Zhuang*  [[pdf](https://arxiv.org/abs/2306.07209)]
+
+
+  
+
+  
+
 ### Applications and Toolkit
 
 - **BMTools**. [[Project](https://github.com/OpenBMB/BMTools)]
