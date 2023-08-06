@@ -51,6 +51,11 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 
 ### Tool-augmented Learning
 
+
+- **ToolQA: A Dataset for LLM Question Answering with External Tools** Preprint 2023. ![](https://img.shields.io/badge/Database-orange)
+
+  *Yuchen Zhuang, Yue Yu, Kuan Wang, Haotian Sun, Chao Zhang* [[pdf](https://arxiv.org/pdf/2306.13304.pdf)] [[Code](https://github.com/night-chen/ToolQA)]
+
 - **Toolformer: Language Models Can Teach Themselves to Use Tools** Preprint 2023. ![](https://img.shields.io/badge/Search_Engine-orange) ![](https://img.shields.io/badge/Calculator-orange) ![](https://img.shields.io/badge/Calendar-orange) ![](https://img.shields.io/badge/Wikipedia-orange)
 
   *Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialom* [[pdf](https://arxiv.org/abs/2302.04761)], [[Code](https://github.com/lucidrains/toolformer-pytorch)]
