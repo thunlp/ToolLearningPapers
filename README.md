@@ -51,6 +51,13 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 
 ### Tool-augmented Learning
 
+- **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs** Preprint 2023. ![](https://img.shields.io/badge/RapidAPI-orange)
+
+  *Yujia Qin, Shihao Liang, Yining Ye, Kunlun Zhu, Lan Yan, Yaxi Lu, Yankai Lin, Xin Cong, Xiangru Tang, Bill Qian, Sihan Zhao, Runchu Tian, Ruobing Xie, Jie Zhou, Mark Gerstein, Dahai Li, Zhiyuan Liu, Maosong Sun* [[pdf](https://arxiv.org/pdf/2307.16789.pdf)] [[Code](https://github.com/OpenBMB/ToolBench)]
+
+- **Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models** Preprint 2023.
+
+  *Cheng-Yu Hsieh, Si-An Chen, Chun-Liang Li, Yasuhisa Fujii, Alexander Ratner, Chen-Yu Lee, Ranjay Krishna, Tomas Pfister* [[pdf](https://arxiv.org/pdf/2308.00675.pdf)]
 
 - **ToolQA: A Dataset for LLM Question Answering with External Tools** Preprint 2023. ![](https://img.shields.io/badge/Database-orange)
 
@@ -241,6 +248,8 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 - **BMTools**. [[Project](https://github.com/OpenBMB/BMTools)]
 
 - **ToolBench**. [[Project](https://github.com/OpenBMB/ToolBench)]
+
+- **WebCPM**. [[Project](https://github.com/thunlp/WebCPM)]
 
 - **AgentVerse**. [[Project](https://github.com/OpenBMB/AgentVerse)]
 
