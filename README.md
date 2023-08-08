@@ -51,10 +51,6 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 
 ### Tool-augmented Learning
 
-- **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs** Preprint 2023. ![](https://img.shields.io/badge/RapidAPI-orange)
-
-  *Yujia Qin, Shihao Liang, Yining Ye, Kunlun Zhu, Lan Yan, Yaxi Lu, Yankai Lin, Xin Cong, Xiangru Tang, Bill Qian, Sihan Zhao, Runchu Tian, Ruobing Xie, Jie Zhou, Mark Gerstein, Dahai Li, Zhiyuan Liu, Maosong Sun* [[pdf](https://arxiv.org/pdf/2307.16789.pdf)] [[Code](https://github.com/OpenBMB/ToolBench)]
-
 - **Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models** Preprint 2023.
 
   *Cheng-Yu Hsieh, Si-An Chen, Chun-Liang Li, Yasuhisa Fujii, Alexander Ratner, Chen-Yu Lee, Ranjay Krishna, Tomas Pfister* [[pdf](https://arxiv.org/pdf/2308.00675.pdf)]
@@ -153,6 +149,14 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
   *Jian Xie, Kai Zhang, Jiangjie Chen, Renze Lou, Yu Su* [[pdf](https://arxiv.org/pdf/2305.13300.pdf)]
 
 ### Tool-oriented Learning
+
+- **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs** Preprint 2023. ![](https://img.shields.io/badge/RapidAPI-orange)
+
+  *Yujia Qin, Shihao Liang, Yining Ye, Kunlun Zhu, Lan Yan, Yaxi Lu, Yankai Lin, Xin Cong, Xiangru Tang, Bill Qian, Sihan Zhao, Runchu Tian, Ruobing Xie, Jie Zhou, Mark Gerstein, Dahai Li, Zhiyuan Liu, Maosong Sun* [[pdf](https://arxiv.org/pdf/2307.16789.pdf)] [[Code](https://github.com/OpenBMB/ToolBench)]
+
+- **TPTU: Task Planning and Tool Usage of Large Language Model-based AI Agents** Preprint 2023.
+
+  *Jingqing Ruan, Yihong Chen, Bin Zhang, Zhiwei Xu, Tianpeng Bao, Guoqing Du, Shiwei Shi, Hangyu Mao, Xingyu Zeng, Rui Zhao* [[pdf](https://arxiv.org/pdf/2308.03427.pdf)]
 
 - **WebCPM: Interactive Web Search for Chinese Long-form Question Answering** Preprint 2023. ![](https://img.shields.io/badge/Search_Engine-orange)
 
