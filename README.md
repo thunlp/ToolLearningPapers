@@ -242,6 +242,9 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 
   *Wenqi Zhang, Yongliang Shen, Weiming Lu, Yueting Zhuang*  [[pdf](https://arxiv.org/abs/2306.07209)],[[Code](https://github.com/zwq2018/Data-Copilot)]
 
+- **GEAR: Augmenting Language Models with Generalizable and Efficient Tool Resolution** Preprint 2023.![](https://img.shields.io/badge/Tool%20Grounding-blue)
+
+  *Yining Lu, Haoping Yu, Daniel Khashabi* [[pdf](https://arxiv.org/abs/2307.08775)],[[Code](https://github.com/yining610/GEAR)]
 
   
 
