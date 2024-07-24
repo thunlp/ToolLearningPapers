@@ -6,14 +6,14 @@ Must-read papers on [tool learning](https://arxiv.org/abs/2304.08354) with found
 
 ## Content
 
+- [Content](#content)
 - [Why Tool Learning?](#why-tool-learning)
 - [Keywords Convention](#keywords-convention)
 - [Papers](#papers)
-  - [Overview](#survey)
+  - [Survey](#survey)
   - [Tool-augmented Learning](#tool-augmented-learning)
   - [Tool-oriented Learning](#tool-oriented-learning)
-  - [Applications](#applications)
-- [Contribution](#contribution)
+  - [Applications and Toolkit](#applications-and-toolkit)
   - [Contributors](#contributors)
   - [Contributing to this paper list](#contributing-to-this-paper-list)
 
@@ -149,6 +149,10 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
   *Jian Xie, Kai Zhang, Jiangjie Chen, Renze Lou, Yu Su* [[pdf](https://arxiv.org/pdf/2305.13300.pdf)]
 
 ### Tool-oriented Learning
+
+- **ShortcutsBench: A Large-Scale Real-world Benchmark for API-based Agents** Preprint 2024. ![](https://img.shields.io/badge/Computer-orange) ![](https://img.shields.io/badge/iPhone-orange) ![](https://img.shields.io/badge/iPad-orange)
+
+  *Haiyang Shen, Yue Li, Desong Meng, Dongqi Cai, Sheng Qi, Li Zhang, Mengwei Xu, Yun Ma* [[pdf](https://arxiv.org/abs/2407.00132)] [[Code](https://github.com/eachsheep/shortcutsbench)]
 
 - **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs** Preprint 2023. ![](https://img.shields.io/badge/RapidAPI-orange)
 
