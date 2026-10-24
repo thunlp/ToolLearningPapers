@@ -246,6 +246,10 @@ Humans possess an extraordinary ability to create and utilize tools, allowing th
 
   *Yining Lu, Haoping Yu, Daniel Khashabi* [[pdf](https://arxiv.org/abs/2307.08775)],[[Code](https://github.com/yining610/GEAR)]
 
+- **Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction** Preprint 2026. ![](https://img.shields.io/badge/ToolMaster-blue)
+
+  *Xingjie Gao, Pengcheng Huang, Zhenghao Liu, Yukun Yan, Shuo Wang, Zulong Chen, Chen Qian, Ge Yu, Yu Gu* [[pdf](https://arxiv.org/abs/2601.12762)], [[Code](https://github.com/NEUIR/ToolMaster)]
+
   
 
   
